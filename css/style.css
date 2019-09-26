@@ -4,7 +4,7 @@
   html {
     --nav-height: 50px;
   }
-  
+
   body {
     padding: 0;
     margin: 0;
@@ -60,7 +60,7 @@
       font-size: 1.5rem;
       line-height: var(--nav-height);
   }
-  
+
   #contairAccueil{
     overflow: hidden;
     animation: color 1.5s ease infinite;
@@ -179,7 +179,7 @@
 /******icon ******************/
 #containerIcon{
     position: absolute;
-    top: 85%;
+    top: 95%;
     left: 50%;
     margin-top: -150px;
     margin-left: -130px;
